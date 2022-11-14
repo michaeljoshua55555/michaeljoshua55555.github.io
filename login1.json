@@ -1,0 +1,36 @@
+{
+  "status1": 200,
+  "data": {
+    "id": 2,
+    "firstName": "super",
+    "middleName": null,
+    "lastName": "super",
+    "mobileNumber": "0000000000",
+    "mobileNumberCode": "super",
+    "faxNumber": null,
+    "addressLine1": "plot no:30g,xyz colony",
+    "addressLine2": null,
+    "zipcode": "99821",
+    "state": "alaska",
+    "city": "auke bay",
+    "emailId": "superadmin1@gmail.com",
+    "npiNumber": null,
+    "roleId": 1,
+    "roleObj": {
+      "id": 1,
+      "title": "Super Admin",
+      "code": "superAdmin",
+      "isSdiRole": true
+    },
+    "isSdiUser": true,
+    "isPhysician": false,
+    "isActive": true,
+    "isEmailVerified": true,
+    "isDeleted": false,
+    "createdBy": 1,
+    "createdAt": "2022-09-29T20:14:23.529Z",
+    "updatedAt": "2022-10-01T07:31:27.488Z",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZmlyc3ROYW1lIjoic3VwZXIiLCJtaWRkbGVOYW1lIjpudWxsLCJsYXN0TmFtZSI6InN1cGVyIiwibW9iaWxlTnVtYmVyIjoiMDAwMDAwMDAwMCIsIm1vYmlsZU51bWJlckNvZGUiOiJzdXBlciIsImZheE51bWJlciI6bnVsbCwiYWRkcmVzc0xpbmUxIjoicGxvdCBubzozMGcseHl6IGNvbG9ueSIsImFkZHJlc3NMaW5lMiI6bnVsbCwiemlwY29kZSI6Ijk5ODIxIiwic3RhdGUiOiJhbGFza2EiLCJjaXR5IjoiYXVrZSBiYXkiLCJlbWFpbElkIjoic3VwZXJhZG1pbjFAZ21haWwuY29tIiwibnBpTnVtYmVyIjpudWxsLCJyb2xlSWQiOjEsInJvbGVPYmoiOnsiaWQiOjEsInRpdGxlIjoiU3VwZXIgQWRtaW4iLCJjb2RlIjoic3VwZXJBZG1pbiIsImlzU2RpUm9sZSI6dHJ1ZX0sImlzU2RpVXNlciI6dHJ1ZSwiaXNQaHlzaWNpYW4iOmZhbHNlLCJpc0FjdGl2ZSI6dHJ1ZSwiaXNFbWFpbFZlcmlmaWVkIjp0cnVlLCJpc0RlbGV0ZWQiOmZhbHNlLCJjcmVhdGVkQnkiOjEsImNyZWF0ZWRBdCI6IjIwMjItMDktMjlUMjA6MTQ6MjMuNTI5WiIsInVwZGF0ZWRBdCI6IjIwMjItMTAtMDFUMDc6MzE6MjcuNDg4WiIsImlhdCI6MTY2ODQzODY0OSwiZXhwIjoxNjcyMDM4NjQ5fQ.GB3u4M37tCXkmbBqfeQ2NPaPPDa0neObcaqYS_Fffy8"
+  },
+  "success": true
+}

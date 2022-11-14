@@ -1,0 +1,38 @@
+{
+  "status": 200,
+  "message": "Check Login Successful",
+  "data": {
+    "id": 2,
+    "firstName": "super",
+    "middleName": null,
+    "lastName": "super",
+    "mobileNumber": "0000000000",
+    "mobileNumberCode": "super",
+    "faxNumber": null,
+    "addressLine1": "plot no:30g,xyz colony",
+    "addressLine2": null,
+    "zipcode": "99821",
+    "state": "alaska",
+    "city": "auke bay",
+    "emailId": "superadmin1@gmail.com",
+    "npiNumber": null,
+    "roleId": 1,
+    "roleObj": {
+      "id": 1,
+      "title": "Super Admin",
+      "code": "superAdmin",
+      "isSdiRole": true
+    },
+    "isSdiUser": true,
+    "isPhysician": false,
+    "isActive": true,
+    "isEmailVerified": true,
+    "isDeleted": false,
+    "createdBy": 1,
+    "createdAt": "2022-09-29T20:14:23.529Z",
+    "updatedAt": "2022-10-01T07:31:27.488Z",
+    "iat": 1668438649,
+    "exp": 1672038649
+  },
+  "success": true
+}

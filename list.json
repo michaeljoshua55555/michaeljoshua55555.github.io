@@ -1,0 +1,36 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": {
+    "page": 1,
+    "limit": 10,
+    "docs": [
+      {
+        "id": 2,
+        "name": "west zone lab",
+        "isSdiLab": true,
+        "director": "director2",
+        "createdAt": "2022-09-30T10:26:09.697Z",
+        "updatedAt": "2022-09-30T10:26:09.697Z"
+      },
+      {
+        "id": 1,
+        "name": "central zone lab",
+        "isSdiLab": true,
+        "director": "director1",
+        "createdAt": "2022-09-30T10:26:09.697Z",
+        "updatedAt": "2022-09-30T10:26:09.697Z"
+      },
+      {
+        "id": 3,
+        "name": "primex",
+        "isSdiLab": false,
+        "director": "director2",
+        "createdAt": "2022-09-30T10:26:09.697Z",
+        "updatedAt": "2022-09-30T10:26:09.697Z"
+      }
+    ],
+    "total": 3
+  },
+  "success": true
+}
